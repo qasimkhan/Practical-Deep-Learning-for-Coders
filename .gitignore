@@ -1,0 +1,13 @@
+.gradio/
+.gitattributes
+.DS_STORE
+models/
+tmp/
+*.bak
+*.pkl
+bears/
+images/
+__pycache__/
+.last_checked
+.gitconfig
+.ipynb_checkpoints/
