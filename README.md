@@ -18,6 +18,13 @@ The primary goals of this repository are:
    - Document insights and challenges faced during the journey.
    - Write blog posts to help others learn from my experiences.
 
+## Projects
+
+### Bear Classifier
+Chapter 2 - Build a bear classifier 
+
+[Bear Classifier](https://huggingface.co/spaces/qasimkhan001/bear_classifier)
+
 ## Topics Covered
 
 ### Local Environment Setup
@@ -28,6 +35,8 @@ One of my first blog posts will focus on setting up a local environment for the 
 - Enable optimization tailored to individual needs.
 
 This guide will be valuable for those looking to enhance their development speed and environment comprehension.
+
+Update: [Build and Run Your AI Code with Confidence](https://buildwithkhan.substack.com/p/build-and-run-your-ai-code-with-confidence)
 
 ### Real-World Application Challenges
 Beyond generating models, implementing them for real-world problems introduces new challenges. I aim to address:
